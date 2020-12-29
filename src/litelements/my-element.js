@@ -4,7 +4,7 @@ import { LitElement, html, customElement } from 'lit-element';
 class MyElement extends LitElement {
   render() {
     return html`
-      <div>Hello from MyElement!</div>
+      <div>Hello from LitElement!</div>
     `;
   }
 }
